@@ -1,0 +1,62 @@
+
+.Youngins{
+    border: 10px solid blue;
+    padding: 20px;
+    margin: 10px;
+}
+.Stadium{
+    border: 10px solid red;
+    padding: 20px;
+    margin: 10px;
+}
+.Curse{
+    border: 10px solid green;
+    padding: 20px;
+    margin: 10px;
+}
+.UEFA{
+    border: 10px solid orange;
+    padding: 20px;
+    margin: 10px;
+}
+.Local{
+    border: 10px solid brown;
+    padding: 20px;
+    margin: 10px;
+}
+.Read{
+    background-color: burlywood;
+    border-radius: 20px;
+    border: none;
+    width: 280px;
+    height: 20px;
+
+}
+.Explore{
+    background-color: pink;
+    border-radius: 20px;
+    border: none;
+    width: 280px;
+    height: 20px;
+}
+.Join{
+    background-color: blueviolet;
+    border-radius: 20px;
+    border: none;
+    width: 280px;
+    height: 20px;
+}
+.Relieve{
+    background-color: gray;
+    border-radius: 20px;
+    border: none;
+    width: 280px;
+    height: 20px;
+}
+.Support{
+    background-color: yellowgreen;
+    border-radius: 20px;
+    border: none;
+    width: 280px;
+    height: 20px;
+}
